@@ -65,4 +65,4 @@ Read or watch:
 ---
 
 ## Author
-* **Jonas Asare** - [Jonas(https://github.com/sabimbi447)
+* **Jonas Asare** - [Jonas](https://github.com/sabimbi447)
